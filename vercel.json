@@ -1,6 +1,0 @@
-{
-  "functions": {
-    "api/search.ts":   { "maxDuration": 30 },
-    "api/download.ts": { "maxDuration": 60 }
-  }
-}
